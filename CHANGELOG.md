@@ -1,3 +1,4 @@
+
 ## 2.1.0
 
 - Fixed issue with sequences in different schema than table
